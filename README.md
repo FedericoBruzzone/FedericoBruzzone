@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. I am an enthusiastic Software Engineer who is interested in new technologies</h3>
-<p align="center">============================================================================================</p>
+<p align="center">=========================================================================================</p>
 <h3 align="center"> Here I am, this is me</h3>
 
 <img align="center" width="800" src ="documents/coding.gif"></img>
