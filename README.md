@@ -5,7 +5,7 @@
 <p align="center">========================================================================================</p>
 <h3 align="center"> This is me </h3>
 
-<img align="center" width="800" src ="documents/coding.gif"></img>
+<p align="center"><img align="center" width="800" src ="documents/coding.gif"></img></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=FedericoBruzzone&label=Profile%20views&color=0e75b6&style=flat" alt="FedericoBruzzone" /></p> -->
 
