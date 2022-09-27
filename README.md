@@ -9,6 +9,10 @@
 
 <p align="center"><img align="center" width="800" src ="documents/coding.gif"></img></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBruzzone)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=FedericoBruzzone&show_icons=true" alt="Github Activity"> -->
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=FedericoBruzzone&label=Profile%20views&color=0e75b6&style=flat" alt="FedericoBruzzone" /></p> -->
 
 <!--
