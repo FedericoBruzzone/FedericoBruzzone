@@ -20,7 +20,8 @@ You can find me here:<br>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages: </h3> <i>Turing Complete</i>
+<h3 align="left">Languages: </h3> 
+<i align="left">Turing Complete</i>
 <p align="left"> 
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -31,40 +32,62 @@ You can find me here:<br>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> </a>   
 </p>
+
+<h3 align="right">Framework: </h3>
+<p align="right"> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="django" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Python Library: </h3>
+<p align="left"> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
+  
+<h3 align="right">SQL Library: </h3>
+<p align="right"> 
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="sqlite" width="40" height="40"/> </a> 
+</p>
+
+
+
 <!--
 
-LANGUAGE
-
-
-
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg
-
-https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg
 
 LIBRARY
-https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg
-https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg
-https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg
+
+
+
+
+
+
+https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
+https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg
+https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg
+
+
+
 
 DATABASE
 https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
-https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg
+
+
+
+https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg
+
+
 
 TOOLS
 https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg
 https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
 
-FRAMEWORK
-https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
-https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg
-https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg
-https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg
-https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg
 
 
 https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg
@@ -77,6 +100,12 @@ https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg
 
 https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
+
+https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg
+https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg
+https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg
+https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg
+
 
 # DESIGN
 https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg
