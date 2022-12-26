@@ -3,13 +3,14 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
-- 🔭 &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
+- 🖋️ &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
+- 🔭 &ensp;I'm currently working as a **Sound Engineer**
 - 📚 &ensp;I’m currently reading [**Design Pattern - Elements of Reusable Object-Oriented Software**](https://www.amazon.it/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=asc_df_0201633612/?tag=googshopit-21&linkCode=df0&hvadid=194940570451&hvpos=&hvnetw=g&hvrand=1636587578850802883&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-83983370726&psc=1)
 - 🌱 &ensp;I’m currently learning:
   - [Java Bytecode Engineering](https://commons.apache.org/proper/commons-bcel/)
   - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/AspectJ)
   - [Python internals](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
-- 👯 &ensp;I’m looking to collaborate with other open-source contributors
+- 👯 &ensp;I’m looking to collaborate with **other open-source contributors**
 - 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
 - 📄 &ensp;My [resumé](https://www.linkedin.com/in/federico-bruzzone/overlay/1635506313017/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U) in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>
 
