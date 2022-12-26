@@ -5,7 +5,7 @@
 
 - 🔭 &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🌱 &ensp;I’m currently learning:
-  - [**Java Bytecode Engineering**](https://www.javassist.org/)
+  - [**Java Bytecode Engineering**](https://commons.apache.org/proper/commons-bcel/)
   - [**Java - Aspect-Oriented Programming**](https://en.wikipedia.org/wiki/AspectJ)
   - [**Python internals**](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
 - 👯 &ensp;I’m looking to collaborate with other open-source contributors
@@ -20,7 +20,7 @@
 <a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
 
 
-### My setup
+### My current setup
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="linux" width="40" height="40"/> </a>
