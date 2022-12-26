@@ -9,13 +9,6 @@ You can find me here:<br>
 <a rel="me" href="https://mstdn.social/@federicobruzzone">Mastodon</a>
 </h3>
 
----
-
-<h3 align="center"> 👩‍💻 </h3>
-<p align="center"><img align="center" width="500" src ="documents/coding.gif"></img></p>
-
----
-
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -56,6 +49,17 @@ You can find me here:<br>
 javassist
 aspectj
 </p>
+
+<h3 align="right">Tools: </h3>
+<p align="right"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>  
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
   
 <h3 align="left">Database: </h3>
 <p align="left"> 
@@ -66,7 +70,6 @@ aspectj
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p> 
 
-
 <h3 align="right">Markup Language: </h3>
 <p align="right"> 
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> 
@@ -74,40 +77,21 @@ aspectj
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Tools: </h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>  
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
 <h3 align="left">Other: </h3>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npmjs" width="40" height="40"/> </a>  
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npmjs" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/> </a>    
 </p>
 
-<!--
+---
+
+<p align="center"><img align="center" width="800" src ="documents/coding.gif"></img></p>
+
+---
 
 
 
-https://www.oracle.com/
-https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg
-
-
-
-
-
-https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg
-
-
--->
 
 
 <!--
@@ -118,18 +102,10 @@ https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg
 https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg
 
 https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg
-</p>-->
 
+https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 
-
-
-
-
-
-
-
-
-
+-->
 
 
 <!--
