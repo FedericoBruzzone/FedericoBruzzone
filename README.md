@@ -3,17 +3,31 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
-<h3 align="center">
-You can find me here:<br>
-<a rel="me" href="https://twitter.com/fedebruzzone7">Twitter</a><br>
-<a rel="me" href="https://mstdn.social/@federicobruzzone">Mastodon</a>
-</h3>
+### Connect with me
+<a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
+<a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
+<a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
+<a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
 
-<p align="center"> 
+
+
+### My setup
+<p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
+
+### 📚 &ensp;Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Design Pattern - Introduction](https://medium.com/@federico.bruzzone.i/design-patterns-introduction-6f12fd2c7c92)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Articles ...](https://medium.com/@federico.bruzzone.i)
+
+---
+
 
 <h3 align="left">Programming Languages: </h3> 
 <i align="left">Turing Complete</i>
