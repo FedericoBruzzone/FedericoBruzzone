@@ -6,12 +6,12 @@
 - 🔭 &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🌱 &ensp;I’m currently learning:
   - [**Java Bytecode Engineering**](https://commons.apache.org/proper/commons-bcel/)
-  - [**Java - Aspect-Oriented Programming**](https://en.wikipedia.org/wiki/AspectJ)
+  - [**Aspect-Oriented Programming**](https://en.wikipedia.org/wiki/AspectJ)
   - [**Python internals**](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
 - 👯 &ensp;I’m looking to collaborate with other open-source contributors
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
-
+- 📄 &ensp;My [resumé](https://www.linkedin.com/in/federico-bruzzone/overlay/1635506313017/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U) in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
