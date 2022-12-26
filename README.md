@@ -38,7 +38,6 @@
 
 ---
 
-
 <h3 align="left">Programming Languages: </h3> 
 <i align="left">Turing Complete</i>
 <p align="left"> 
@@ -70,8 +69,9 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-javassist
-aspectj
+<a href="https://commons.apache.org/proper/commons-bcel/" target="_blank" rel="noreferrer"> <img src="https://commons.apache.org/images/commons-logo.png" alt="bcel" width="130" height="40"/> </a>
+<a href="https://www.javassist.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqgX0AUEpFyE3HpDje-I_VHtST7lqnBdj3Q&usqp=CAU" alt="javassist" width="130" height="40"/> </a>
+<a href="https://www.eclipse.org/aspectj/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgB6xyYmcbsrYIIQALi7iHJJNTn6m9PhXZg&usqp=CAU" alt="aspectj" width="70" height="60"/> </a>
 </p>
 
 <h3 align="right">Tools: </h3>
