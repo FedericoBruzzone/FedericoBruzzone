@@ -12,7 +12,7 @@ You can find me here:<br>
 ---
 
 <h3 align="center"> 👩‍💻 </h3>
-<p align="center"><img align="center" width="800" src ="documents/coding.gif"></img></p>
+<p align="center"><img align="center" width="500" src ="documents/coding.gif"></img></p>
 
 ---
 
@@ -20,23 +20,24 @@ You can find me here:<br>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages: </h3> <i>Turing Complete</i>
 <p align="left"> 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
 </p>
 <!--
 
 LANGUAGE
-https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg
 
-https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg
-https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg
 
-https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg
+
 https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg
 
 https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
@@ -61,11 +62,10 @@ https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.
 FRAMEWORK
 https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
 https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg
+https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg
 https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg
 https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg
 
-
-https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg
 
 https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg
 https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg
@@ -74,7 +74,7 @@ https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 
 https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg
 
-https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg
+
 https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
 
