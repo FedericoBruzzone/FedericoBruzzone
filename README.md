@@ -3,12 +3,21 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
+- 🔭 &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
+- 🌱 &ensp;I’m currently learning:
+  - [**Java Bytecode Engineering**](https://www.javassist.org/)
+  - [**Java - Aspect-Oriented Programming**](https://en.wikipedia.org/wiki/AspectJ)
+  - [**Python internals**](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
+- 👯 &ensp;I’m looking to collaborate with other open-source contributors
+- ⚡ &ensp;Fun fact: I love reading & podcasts
+- 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
+
+
 ### Connect with me
 <a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
 <a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
 <a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
 <a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
-
 
 
 ### My setup
@@ -21,10 +30,10 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern - Introduction](https://medium.com/@federico.bruzzone.i/design-patterns-introduction-6f12fd2c7c92)
+- [**Design Pattern - Introduction**](https://medium.com/@federico.bruzzone.i/design-patterns-introduction-6f12fd2c7c92)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles ...](https://medium.com/@federico.bruzzone.i)
+&ensp;[>>> More Articles <<<](https://medium.com/@federico.bruzzone.i)
 
 ---
 
