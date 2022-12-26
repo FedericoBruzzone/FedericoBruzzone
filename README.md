@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
-<h3 align="center">a MSc Student in Computer Science at University of Milan. I am an enthusiastic Software Engineer who is interested in new technologies</h3>
+<h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
 ---
 
