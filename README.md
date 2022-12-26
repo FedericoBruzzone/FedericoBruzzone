@@ -12,7 +12,7 @@
   - [Python internals](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
 - 👯 &ensp;I’m looking to collaborate with **other open-source contributors**
 - 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
-- 📄 &ensp;My [resumé](https://www.linkedin.com/in/federico-bruzzone/overlay/1635506313017/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U) in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>
+- 📄 &ensp;My [resumé](https://www.linkedin.com/in/federico-bruzzone/overlay/1635511711479/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U) in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>
 
 ### Connect with me
 <a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
