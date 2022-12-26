@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
+<h3 align="center">
+You can find me here:<br>
+<a rel="me" href="https://twitter.com/fedebruzzone7">Twitter</a><br>
+<a rel="me" href="https://mstdn.social/@federicobruzzone">Mastodon</a>
+  
+</h3>
 ---
 
 <h3 align="center"> 👩‍💻 </h3>
