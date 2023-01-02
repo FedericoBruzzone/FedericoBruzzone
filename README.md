@@ -9,7 +9,7 @@
 - 🌱 &ensp;I’m currently learning:
   - [Java Bytecode Engineering](https://commons.apache.org/proper/commons-bcel/)
   - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/AspectJ)
-  - [Python internals](https://static.realpython.com/cpython-internals-sample-chapters.pdf)
+  - [Python internals]([https://static.realpython.com/cpython-internals-sample-chapters.pdf](https://pdfhost.io/v/JWYCSnWZm_CPython_Internal_Your_Guide_to_the_Python_3_Interpreter))
 - 👯 &ensp;I’m looking to collaborate with **other open-source contributors**
 - 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
 - 📄 &ensp;My [**resumé**](https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/Resum%C3%A8.pdf) <sub>[Download it to  interact]</sub> in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>. <sub>([linkedin version](https://www.linkedin.com/in/federico-bruzzone/overlay/1635511711479/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U))</sub>
