@@ -32,6 +32,7 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- 📄 [**Builder — Object Creational**]([https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913](https://medium.com/@federico.bruzzone.i/builder-object-creational-df35c97ba875))
 - 📄 [**Abstract Factory — Object Creational**](https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913)
 - 📄 [**Design Pattern — Introduction**](https://medium.com/@federico.bruzzone.i/design-patterns-introduction-6f12fd2c7c92)
 <!-- BLOG-POST-LIST:END -->
