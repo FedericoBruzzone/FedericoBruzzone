@@ -31,10 +31,12 @@
 
 ### 📚 &ensp;Latest Medium Articles
 
+
+
 <!-- BLOG-POST-LIST:START -->
-- 📄 [**Builder — Object Creational**](https://medium.com/@federico.bruzzone.i/builder-object-creational-df35c97ba875)
-- 📄 [**Abstract Factory — Object Creational**](https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913)
-- 📄 [**Design Pattern — Introduction**](https://medium.com/@federico.bruzzone.i/design-patterns-introduction-6f12fd2c7c92)
+- 📄 [**Factory Method pattern — Class Creational**](https://medium.com/dev-genius/factory-method-pattern-class-creational-6c29e66b5c3a)
+- 📄 [**Builder pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/builder-object-creational-df35c97ba875)
+- 📄 [**Abstract Factory pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913)
 <!-- BLOG-POST-LIST:END -->
 
 &ensp;[>>> More Articles <<<](https://medium.com/@federico.bruzzone.i)
