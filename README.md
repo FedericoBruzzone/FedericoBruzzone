@@ -64,8 +64,8 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a> 
-<a href="https://pytest.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="100" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cloudnesil.com/wp-content/uploads/2018/12/apachesparklogo.png" alt="spark" width="80" height="40"/> </a> 
 <a href="https://juce.com/" target="_blank" rel="noreferrer"> <img src="https://assets.juce.com/juce/JUCE_banner_github.png" alt="juce" width="100" height="40"/> </a>
 </p>
 
@@ -77,6 +77,7 @@
 <a href="https://commons.apache.org/proper/commons-bcel/" target="_blank" rel="noreferrer"> <img src="https://commons.apache.org/images/commons-logo.png" alt="bcel" width="130" height="40"/> </a>
 <a href="https://www.javassist.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqgX0AUEpFyE3HpDje-I_VHtST7lqnBdj3Q&usqp=CAU" alt="javassist" width="130" height="40"/> </a>
 <a href="https://www.eclipse.org/aspectj/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgB6xyYmcbsrYIIQALi7iHJJNTn6m9PhXZg&usqp=CAU" alt="aspectj" width="70" height="60"/> </a>
+<a href="https://pytest.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="100" height="40"/> </a>
 </p>
 
 <h3 align="right">Tools: </h3>
@@ -87,7 +88,7 @@
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
   
 <h3 align="left">Database: </h3>
