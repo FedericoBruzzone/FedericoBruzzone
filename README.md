@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
-<h4 align="center" href="https://federico.github.io">My personal website/blog</h4>
+<h4 align="center"><a href="https://federico.github.io">My personal website/blog</a></h4>
 
 - 🖋️ &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🔭 &ensp;I'm currently working as a **Sound Engineer**
