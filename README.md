@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
+<h4 align="center" href="https://federico.github.io">My personal website/blog</h4>
+
 - 🖋️ &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🔭 &ensp;I'm currently working as a **Sound Engineer**
 - 📚 &ensp;I’m currently reading [**Design Patterns** - Elements of Reusable Object-Oriented Software](https://www.amazon.it/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=asc_df_0201633612/?tag=googshopit-21&linkCode=df0&hvadid=194940570451&hvpos=&hvnetw=g&hvrand=1636587578850802883&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-83983370726&psc=1)
