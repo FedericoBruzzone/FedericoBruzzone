@@ -1,10 +1,46 @@
+<h1 align="center"><a href="https://federicobruzzone.github.io">My personal website</a></h1>
+
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
 
-<h4 align="center"><a href="https://federicobruzzone.github.io">My personal website/blog</a></h4>
+---
 
+In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
+
+- [About me](https://federicobruzzone.github.io/about/) 
+- [Atricles](https://federicobruzzone.github.io)
+- [External links](https://federicobruzzone.github.io/external-links/)
+
+### My current setup
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+</p>
+
+### Connect with me
+<a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
+<a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
+<a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
+<a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
+<a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
+
+
+<!--
+### 📚 &ensp;Latest Medium Articles
+
+- 📄 [**Factory Method pattern — Class Creational**](https://medium.com/dev-genius/factory-method-pattern-class-creational-6c29e66b5c3a)
+- 📄 [**Builder pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/builder-object-creational-df35c97ba875)
+- 📄 [**Abstract Factory pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913)
+
+
+&ensp;[>>> More Articles <<<](https://medium.com/@federico.bruzzone.i)
+-->
+
+
+<!--
 - 🖋️ &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🔭 &ensp;I'm currently working as a **Sound Engineer**
 - 📚 &ensp;I’m currently reading [**Design Patterns** - Elements of Reusable Object-Oriented Software](https://www.amazon.it/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=asc_df_0201633612/?tag=googshopit-21&linkCode=df0&hvadid=194940570451&hvpos=&hvnetw=g&hvrand=1636587578850802883&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-83983370726&psc=1)
@@ -15,34 +51,12 @@
 - 👯 &ensp;I’m looking to collaborate with **other open-source contributors**
 - 📫 &ensp;How to reach me: [**Linkedin**](https://www.linkedin.com/in/federico-bruzzone/) or [**Email**](federico.bruzzone.i@gmail.com)
 - 📄 &ensp;My [**resumé**](https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/Resum%C3%A8.pdf) <sub>[Download it to  interact]</sub> in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>. <sub>([linkedin version](https://www.linkedin.com/in/federico-bruzzone/overlay/1635511711479/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U))</sub>
-
-### Connect with me
-<a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
-<a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
-<a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
-<a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
-<a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
-
-
-### My current setup
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-</p>
-
-### 📚 &ensp;Latest Medium Articles
+-->
 
 
 
-<!-- BLOG-POST-LIST:START -->
-- 📄 [**Factory Method pattern — Class Creational**](https://medium.com/dev-genius/factory-method-pattern-class-creational-6c29e66b5c3a)
-- 📄 [**Builder pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/builder-object-creational-df35c97ba875)
-- 📄 [**Abstract Factory pattern — Object Creational**](https://medium.com/@federico.bruzzone.i/abstract-factory-object-creational-7c25302d3913)
-<!-- BLOG-POST-LIST:END -->
 
-&ensp;[>>> More Articles <<<](https://medium.com/@federico.bruzzone.i)
-
+<!--
 ---
 
 <h3 align="left">Programming Languages: </h3> 
@@ -122,6 +136,7 @@
 
 ---
 
+-->
 
 
 
@@ -138,6 +153,8 @@ https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg
 https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 
 -->
+
+
 
 
 <!--
