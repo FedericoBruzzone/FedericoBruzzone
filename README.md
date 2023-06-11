@@ -7,6 +7,14 @@
 
 ---
 
+I’m an enthusiastic software engineer with a passion for piano, and often math.
+
+I spent my five years in high school on an important path on computer science and then continued it during the bachelor and now in the master.
+
+I studied piano and music composition at the convervatorio in Novara during my years in middle and high school.
+
+---
+
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
 
 - [About me](https://federicobruzzone.github.io/about/) 
