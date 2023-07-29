@@ -53,9 +53,6 @@ In my personal website you can find my articles, additional information about me
 - 📄 &ensp;My [**resumé**](https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/Resum%C3%A8.pdf) <sub>[Download it to  interact]</sub> in <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="30" height="30"/>. <sub>([linkedin version](https://www.linkedin.com/in/federico-bruzzone/overlay/1635511711479/single-media-viewer/?profileId=ACoAADn20ZQBDu2bv9IjD7L8-CMpxk_V-7uk38U))</sub>
 -->
 
-
-
-
 <!--
 ---
 
