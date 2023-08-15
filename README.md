@@ -39,7 +39,6 @@ In my personal website you can find my articles, additional information about me
 &ensp;[>>> More Articles <<<](https://medium.com/@federico.bruzzone.i)
 -->
 
-
 <!--
 - 🖋️ &ensp;I’m currently writing on [**Medium**](https://medium.com/@federico.bruzzone.i)
 - 🔭 &ensp;I'm currently working as a **Sound Engineer**
