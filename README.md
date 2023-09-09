@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+  <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3>
@@ -146,7 +146,6 @@ https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg
 https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 
 -->
-
 
 <!--
 **FedericoBruzzone/FedericoBruzzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
