@@ -27,7 +27,6 @@ In my personal website you can find my articles, additional information about me
 <a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
 <a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
 
-
 <!--
 ### 📚 &ensp;Latest Medium Articles
 
