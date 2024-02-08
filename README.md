@@ -5,6 +5,17 @@
 
 ---
 
+```ebnf
+Bio ::= "mediocre" Trait
+
+Trait ::= "MSc Student in Computer Science @ UNIMI"
+        | "Software Engineer"
+        | "Sound Engineer"
+        | "Pianist"
+```
+
+---
+
 <h1 align="center"><a href="https://federicobruzzone.github.io">My personal website</a></h1>
 
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
