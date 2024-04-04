@@ -16,18 +16,23 @@ Trait ::= "MSc Student in Computer Science @ UNIMI"
 
 <h1 align="center"><a href="https://federicobruzzone.github.io">My personal website</a></h1>
 
+<!--
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
 
 - [About me](https://federicobruzzone.github.io/about/) 
 - [Atricles](https://federicobruzzone.github.io)
 - [External links](https://federicobruzzone.github.io/external-links/)
+-->
 
+<!--
 ### My current setup
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
+-->
+
 
 ### Connect with me
 <a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
