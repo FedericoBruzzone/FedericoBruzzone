@@ -14,9 +14,11 @@ Trait ::= "MSc Student in Computer Science @ UNIMI"
 
 ---
 
-<h3 align="center"><a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/resume/resume.pdf">My resume</a></h3>
-<h3 align="center"><a href="https://federicobruzzone.github.io">My blog</a></h3>
-<h3 align="center"><a href="https://federicobruzzone.github.io">My projects</a></h3>
+<h3 align="center">
+    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/resume/resume.pdf">My resume</a>
+    <a href="https://federicobruzzone.github.io">My blog</a>
+    <a href="https://federicobruzzone.github.io">My projects</a>
+</h3>
 
 <!--
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
