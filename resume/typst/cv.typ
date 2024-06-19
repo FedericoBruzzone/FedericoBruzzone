@@ -4,7 +4,7 @@
 
 #show: body => cv(
   name: "Federico Cristiano Bruzzone",
-  about: [Computer Science Student at Università degli Studi di Milano and researcher at ADAPT Lab working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
+  about: [Computer Science Student at Università degli Studi di Milano and Researcher at ADAPT Lab working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
   personal_info: (
     birth_place: "Magenta (MI), Italy",
     date_of_birth: [7th of *March 2000*],
@@ -100,12 +100,13 @@
   )
 )
 
-= Teaching Activities for Graduate Courses
+= Teaching Activities
+== Graduate Courses
 #entry(
   when: "2024-2025",
   what: "Mathematical Logic",
   details: (
-    [I assisted the Professor *Stefano Aguzzoli* in the course "Mathematical Logic" for the Bachelor's Degree in Computer Science, Università degli Studi di Milano.]
+    [I assisted the Professor *Stefano Aguzzoli* in the exams of "Mathematical Logic" for the Bachelor's Degree in Computer Science, Università degli Studi di Milano.]
 
   )
 )
@@ -114,7 +115,7 @@
   when: "2023-2024",
   what: "General Computer Science",
   details: (
-    [I assisted the Professor *Alberto Davide Adolfo Momigliano * in the course "General Computer Science" for the Bachelor's Degree in Economics, Università degli Studi di Milano.]
+    [I assisted the Professor *Alberto Davide Adolfo Momigliano * in the exams of "General Computer Science" for the Bachelor's Degree in Economics, Università degli Studi di Milano.]
 
   )
 )
@@ -135,7 +136,7 @@
   )
 )
 
-= Additional teaching activities
+== Additional Activities
 
 #entry(
   when: "2023-Present",
@@ -146,7 +147,7 @@
 )
 
 #entry(
-  when: "Jan-Jul 2024",
+  when: "Jan-Jun 2024",
   what: "Computer Science Laboratories",
   details: (
     [In collaboration with ALaDDIn Lab and the Professor *Violetta Lonati* of the Università degli Studi di Milano, I have been responsible for the organization and management of the Computer Science Laboratories for the Bachelor's Degree in Computer Science.]
@@ -154,10 +155,10 @@
 )
 
 #entry(
-  when: "Jan-Jul 2024",
+  when: "Jan-Jun 2024",
   what: "Workshops for schools",
   details: (
-    [In collaboration with ALaDDIn Lab and the Professors *Violetta Lonati* and *Anna Morpurgo* of the Università degli Studi di Milano, I helped organize and manage workshops for high school students on the topics of Computer Science.]
+    [In collaboration with ALaDDIn Lab and the Professors *Violetta Lonati* and *Anna Morpurgo* of the Università degli Studi di Milano, I helped manage workshops for high school students on the topics of Computer Science.]
   )
 )
 #entry(
@@ -168,7 +169,7 @@
   )
 )
 
-= Experience
+= Work Experience
 
 #entry(
   when: "2021-Present",
