@@ -22,12 +22,16 @@
     twitter_link: "https://x.com/fedebruzzone7",
     twitter_name: "@fedebruzzone7"
   ),
-  textfill: gradient.linear(..(color.map.mako.slice(50,100).rev(), color.map.mako.slice(50,100)).flatten(), relative:"parent"),
-  linkfill: gradient.linear(..color.map.flare.slice(150,256), relative:"parent"),
-  // linkfill: gradient.linear(..(color.map.rocket.slice(108,148).rev(), color.map.rocket.slice(108,148)).flatten(), relative:"parent"),
   bib : ("publications.bib"),
+  textfill: gradient.linear(..color.map.flare.slice(129,256), relative:"parent"),
+  linkfill: gradient.linear(..color.map.mako.slice(56, 156), relative:"parent"),
   body,
 )
+// Red based: linkfill: gradient.linear(..(color.map.rocket.slice(108,148).rev(), color.map.rocket.slice(108,148)).flatten(), relative:"parent"),
+// GreenBlue based: textfill: gradient.linear(..(color.map.mako.slice(50,100).rev(), color.map.mako.slice(50,100)).flatten(), relative:"parent"),
+// Purple based: linkfill: gradient.linear(..color.map.flare.slice(150,256), relative:"parent"),
+
+
 
 = Education
 == Academic Titles
@@ -36,7 +40,7 @@
   what: "MSc in Computer Science",
   details: (
     [At *Università degli Studi di Milano* defending the thesis:],
-    ["_Toward a modular approach for type systems and LSP generation_".],
+    ["_Toward a Modular Approach for Type Systems and LSP Generation_".],
     [Supervisor: *Walter Cazzola*, Università degli Studi di Milano],
     [Co-supervisor: *Luca Favalli*, Università degli Studi di Milano]
   )
@@ -46,7 +50,7 @@
   what: "BSc in Musical Computer Science",
   details: (
     [At *Università degli Studi di Milano* defending the thesis:],
-    ["_Intellectual Property and Digital Rights Management on blockchain for the IEEE 1599 standard_".],
+    ["_Intellectual Property and Digital Rights Management on Blockchain for the IEEE 1599 Standard_".],
     [Supervisor: *Andrea Visconti*, Università degli Studi di Milano],
     [Co-supervisor: *Luca Andrea Ludovico*, Università degli Studi di Milano]
   )
@@ -93,10 +97,9 @@
 #text(red)[*This paper is work in progress and will be submitted to the journal soon.*] \
 #papers(
   papers: (
-    (label: "TmpBruzzone2024", score: [*Jurnal Ranked Q1 on Scimago* - #link("https://www.scimagojr.com/journalsearch.php?q=19309&tip=sid")]),
+    (label: "TmpBruzzone2024", score: [*Jurnal Ranked Q1 on Scimago* - #link("https://www.scimagojr.com/journalsearch.php?q=19309&tip=sid&clean=0")[scimagojr.com/journal-of-systems-and-software]]),
   )
 )
-
 
 = Teaching Activities for Graduate Courses
 #entry(
@@ -189,7 +192,7 @@
 )
 
 #entry(
-  when: "2020-2021",
+  when: "2020-2024",
   what: "Exemption from university fees",
   details: (
     [I was awarded an exemption from university fees for the Bachelor's Degree in Musical Computer Science at the Università degli Studi di Milano.]
@@ -197,13 +200,20 @@
 )
 
 = Tongues
-#grid(
-  columns: (1fr, 8fr),
-  rows: (auto),
-  gutter: 10pt,
-  [*Italian*:], [Mother tongue],
-  [*English*:], [Level CEFR B2 (SLAM at Università degli Studi di Milano)],
-  [*Spanish*:], [Base (A1-A2)]
+
+#entry(
+    when: "Italian",
+    details: ("Mother tongue")
+)
+
+#entry(
+    when: "English",
+    details: ("Level CEFR B2 (SLAM at Università degli Studi di Milano)")
+)
+
+#entry(
+    when: "Spanish",
+    details: ("Base (A1-A2)")
 )
 
 = Other Activities

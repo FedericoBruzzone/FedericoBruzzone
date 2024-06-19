@@ -1,18 +1,30 @@
+#import emoji: face
+
+/// Show an entry
+/// `when` is the time of the entry
+/// `what` is the activity
+/// `details` is the details of the activity
 #let entry(
   when: "",
   what: "",
   details: (),
 ) = [
-  #let d = (([*#what*]), details, ("")).flatten()
+  #let d = (([*#what*]), details, ("")).flatten().join([ \ ])
+  #if what == "" {
+    d = details
+  }
+
   #grid(
     columns: (1.5fr, 8fr),
     gutter: 20pt,
     rows: (auto),
-      grid.cell(align: right, [*#when*]), grid.cell(align: left, (d.join([ \ ]))
-    )
+    grid.cell(align: right, [*#when*]),
+    grid.cell(align: left, d)
   )
 ]
 
+/// Show a list of entries
+/// `papers` should be a list of strings (the labels of the papers)
 #let papers(
   papers : ()
 ) = {
@@ -28,32 +40,13 @@
       []
     }
     linebreak()
-    v(15pt, weak: true)
+    // v(15pt, weak: true)
   }
-}
-
-#let custom-render = (index, entry, extra, details) => {
-  [
-    "[" + (index + 1) + "] ",
-    #entry.author(),
-    ", ",
-    #strong(extra + entry.title()),
-    #if entry.journal() {[
-      ", ",
-      #entry.journal()
-    ]},
-    ", ",
-    #entry.year(),
-    ", ",
-    #if entry.doi() {[
-      doi: , #entry.doi()
-    ]}
-  ]
+  // v(15pt)
 }
 
 
-
-/// Custom render for the entries
+/// Show a link
 /// `show-type` should be "box", "filled" or "underline"
 /// `label-color` is the color of the label
 /// `default-color` is the color of the text
@@ -103,11 +96,11 @@
   set text(
     size: 11pt,
     hyphenate: false,
-    font: textfont,
+    // font: textfont,
+    // font: "Noto Color Emoji"
     // font: "Iosevka NF",
-    // font: "Noto Sans Serif",
-    // font: "Cantarell",
-    // font: "Noto Sans Linear B",
+    // font: "Cantarell"
+
   )
   set page(
     paper: "us-letter",
@@ -123,35 +116,12 @@
       height: 1em,
     ))
   ]
-
-  show "ALaDDIn Lab": name => box[
-    #link("https://aladdin.unimi.it/")[#name]
-  ]
-
-  show "LIM Lab": name => box[
-    #link("https://www.lim.di.unimi.it/")[#name]
-  ]
-
-  show "Università degli Studi di Milano": name => box[
-    // #name
-    #link("https://www.unimi.it/it")[#name]
-    // #box(image(
-    //   "minerva-new.svg",
-    //   height: 0.7em,
-    // ))
-  ]
-
-  show "Neverlang": name => box[
-    #link("https://www.sciencedirect.com/science/article/pii/S1477842415000056")[#name]
-  ]
-
-  show "IEEE 1599": name => box[
-    #link("https://ieee1599.lim.di.unimi.it/")[#name]
-  ]
-
-  show "Bebras Challenge": name => box[
-    #link("https://bebras.it/")[#name]
-  ]
+  show "ALaDDIn Lab": name => box[ #link("https://aladdin.unimi.it/")[#name] ]
+  show "LIM Lab": name => box[ #link("https://www.lim.di.unimi.it/")[#name] ]
+  show "Università degli Studi di Milano": name => box[ #link("https://www.unimi.it/it")[#name] ]
+  show "Neverlang": name => box[ #link("https://www.sciencedirect.com/science/article/pii/S1477842415000056")[#name] ]
+  show "IEEE 1599": name => box[ #link("https://ieee1599.lim.di.unimi.it/")[#name] ]
+  show "Bebras Challenge": name => box[ #link("https://bebras.it/")[#name] ]
 
   body
 }
@@ -198,16 +168,16 @@
       Born in #personal_info.birth_place on #personal_info.date_of_birth \
       Resident of #personal_info.residence \
       #for (i, email) in personal_info.emails.enumerate(start: 1) [
-          E-mail #i: #link(email) \
+        #emoji.face E-mail #i: #link(email) \
       ]
       Phone: #personal_info.phone
     ],
     align(right)[
       == Contact Information
-      Github: #link(contact_info.github_link)[#contact_info.github_name] \
-      Telegram: #link(contact_info.telegram_link)[#contact_info.telegram_name] \
-      LinkedIn: #link(contact_info.linkedin_link)[#contact_info.linkedin_name] \
-      Twitter: #link(contact_info.twitter_link)[#contact_info.twitter_name] \
+      #box(image("github-mark.svg", height: 1em)) Github: #link(contact_info.github_link)[#contact_info.github_name] \
+      #box(image("Telegram_logo.svg", height: 1em)) Telegram: #link(contact_info.telegram_link)[#contact_info.telegram_name] \
+      #box(image("LinkedIn_Logo.svg", height: 1em)) LinkedIn: #link(contact_info.linkedin_link)[#contact_info.linkedin_name] \
+      #box(image("Twitter_logo.svg", height: 1em)) Twitter: #link(contact_info.twitter_link)[#contact_info.twitter_name] \
     ]
   )
 }
@@ -243,23 +213,22 @@
   subtitle: "Curriculum Vitae",
   personal_info: (),
   contact_info: (),
-  heading-align: center,
-  sub-heading-align: center,
+  title-heading-align: center,
+  subtitle-heading-align: center,
   heading_level-1-align: right,
   heading_level-2-align: left,
   heading-underline: true,
   textfont: "Linux Libertine",
   textfill: gradient.linear(..color.map.crest.slice(130,), relative:"parent"),
   linkfill: gradient.linear(..color.map.crest.slice(130,), relative:"parent"),
-  // textfill: gradient.linear(..(color.map.mako.slice(50,100).rev(), color.map.mako.slice(50,100)).flatten(), relative:"parent"),
   bib: (),
   body,
 ) = {
   show: body => set_global_settings(textfont, body)
   show: body => show_link("filled", green, linkfill, body)
 
-  show_title(heading-align, heading-underline, textfill, name)
-  show_subtitle(sub-heading-align, textfill, subtitle)
+  show_title(title-heading-align, heading-underline, textfill, name)
+  show_subtitle(subtitle-heading-align, textfill, subtitle)
   show_information(textfill, personal_info, contact_info)
 
   show: body => set_heading_settings(heading_level-1-align, heading_level-2-align, heading-underline, textfill, body)
