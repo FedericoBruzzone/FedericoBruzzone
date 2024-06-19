@@ -1,5 +1,3 @@
-#import emoji: face
-
 /// Show an entry
 /// `when` is the time of the entry
 /// `what` is the activity
@@ -112,7 +110,7 @@
   show "ADAPT Lab": name => box[
     #link("https://di.unimi.it/it/ricerca/risorse-e-luoghi-della-ricerca/laboratori-di-ricerca/adapt-lab")[#name]
     #box(image(
-      "logo-lab.svg",
+      "figs/logo-lab.svg",
       height: 1em,
     ))
   ]
@@ -149,6 +147,15 @@
 #let show_subtitle(sub-heading-align, textfill, subtitle) = {
   set align(sub-heading-align)
   text(22pt, fill: textfill, subtitle)
+  v(10pt, weak: true)
+}
+
+/// Show the about of the document
+/// `about-align` is the alignment of the about
+/// `about` is the about of the document
+#let show_about(about-align, about) = {
+  set align(about-align)
+  about
 }
 
 /// Show the information of the document
@@ -168,16 +175,16 @@
       Born in #personal_info.birth_place on #personal_info.date_of_birth \
       Resident of #personal_info.residence \
       #for (i, email) in personal_info.emails.enumerate(start: 1) [
-        #emoji.face E-mail #i: #link(email) \
+        E-mail #i: #link(email) \
       ]
       Phone: #personal_info.phone
     ],
     align(right)[
       == Contact Information
-      #box(image("github-mark.svg", height: 1em)) Github: #link(contact_info.github_link)[#contact_info.github_name] \
-      #box(image("Telegram_logo.svg", height: 1em)) Telegram: #link(contact_info.telegram_link)[#contact_info.telegram_name] \
-      #box(image("LinkedIn_Logo.svg", height: 1em)) LinkedIn: #link(contact_info.linkedin_link)[#contact_info.linkedin_name] \
-      #box(image("Twitter_logo.svg", height: 1em)) Twitter: #link(contact_info.twitter_link)[#contact_info.twitter_name] \
+      #box(image("figs/github-mark.svg", height: 1em)) Github: #link(contact_info.github_link)[#contact_info.github_name] \
+      #box(image("figs/Telegram_logo.svg", height: 1em)) Telegram: #link(contact_info.telegram_link)[#contact_info.telegram_name] \
+      #box(image("figs/LinkedIn_Logo.svg", height: 1em)) LinkedIn: #link(contact_info.linkedin_link)[#contact_info.linkedin_name] \
+      #box(image("figs/Twitter_logo.svg", height: 1em)) Twitter: #link(contact_info.twitter_link)[#contact_info.twitter_name] \
     ]
   )
 }
@@ -210,11 +217,13 @@
 
 #let cv(
   name: "",
+  title-heading-align: center,
+  about: "",
+  about-align: center,
   subtitle: "Curriculum Vitae",
+  subtitle-heading-align: center,
   personal_info: (),
   contact_info: (),
-  title-heading-align: center,
-  subtitle-heading-align: center,
   heading_level-1-align: right,
   heading_level-2-align: left,
   heading-underline: true,
@@ -229,6 +238,7 @@
 
   show_title(title-heading-align, heading-underline, textfill, name)
   show_subtitle(subtitle-heading-align, textfill, subtitle)
+  show_about(about-align, about)
   show_information(textfill, personal_info, contact_info)
 
   show: body => set_heading_settings(heading_level-1-align, heading_level-2-align, heading-underline, textfill, body)

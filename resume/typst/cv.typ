@@ -1,16 +1,17 @@
 #import "cv.template.typ": cv, entry, papers
-#import "students.typ": students
-#import "peculiar.typ": splps
+// #import "students.typ": students
+// #import "peculiar.typ": splps
 
 #show: body => cv(
   name: "Federico Cristiano Bruzzone",
+  about: [Computer Science Student at Università degli Studi di Milano and researcher at ADAPT Lab working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
   personal_info: (
     birth_place: "Magenta (MI), Italy",
     date_of_birth: [7th of *March 2000*],
     residence: "Via F. Turati 75/F, Arluno (MI), 20004",
     emails: ("mailto:federico.bruzzone@studenti.unimi.it",
              "mailto:federico.bruzzone.i@gmail.com"),
-    phone: [*+39 391 7369214*]
+    phone: [+39 *391 7369214*]
   ),
   contact_info: (
     github_link: "https://github.com/FedericoBruzzone",
@@ -24,14 +25,12 @@
   ),
   bib : ("publications.bib"),
   textfill: gradient.linear(..color.map.flare.slice(129,256), relative:"parent"),
-  linkfill: gradient.linear(..color.map.mako.slice(56, 156), relative:"parent"),
+  linkfill: gradient.linear(..color.map.mako.slice(50, 100), relative:"parent"),
   body,
 )
 // Red based: linkfill: gradient.linear(..(color.map.rocket.slice(108,148).rev(), color.map.rocket.slice(108,148)).flatten(), relative:"parent"),
 // GreenBlue based: textfill: gradient.linear(..(color.map.mako.slice(50,100).rev(), color.map.mako.slice(50,100)).flatten(), relative:"parent"),
 // Purple based: linkfill: gradient.linear(..color.map.flare.slice(150,256), relative:"parent"),
-
-
 
 = Education
 == Academic Titles
