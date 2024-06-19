@@ -1,24 +1,32 @@
   <!-- ### Hi there 👋 -->
+<!-- <div id="grad1"></div> -->
 
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
-<!-- <h3 align="center">a MSc Student in Computer Science at University of Milan. </h3> -->
-
-```ebnf
-Bio ::= "mediocre" Trait ":D"
-
-Trait ::= "MSc Student in Computer Science @ UNIMI"
-        | "Software Engineer"
-        | "Sound Engineer"
-        | "Pianist"
-```
-
----
 
 <h3 align="center">
-    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/documents/resume/resume.pdf">My resume</a>
-    <a href="https://federicobruzzone.github.io">My blog</a>
-    <a href="https://federicobruzzone.github.io">My projects</a>
+    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/cv.pdf">Click here to know more about me</a>
 </h3>
+
+<p align="center">
+    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/cv.pdf">My CV</a>
+    &ensp;|&ensp;
+    <a href="https://federicobruzzone.github.io">My blog</a>
+</p>
+
+```ebnf
+Bio   ::= "mediocre" Trait
+
+Trait ::= "MSc Student in Computer Science @ UNIMI"
+        | "Researcher in Computer Science @ ADAPT Lab"
+        | "Sound Engineer, Music Composer and Pianist"
+```
+
+#### Connect with me
+<a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
+<a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
+<a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
+<a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
+<a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
 
 <!--
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
@@ -38,12 +46,6 @@ In my personal website you can find my articles, additional information about me
 -->
 
 
-### Connect with me
-<a href="https://github.com/FedericoBruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" width="130" /></a>
-<a href="https://www.linkedin.com/in/federico-bruzzone/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" width="130" /></a>
-<a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
-<a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
-<a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
 
 <!--
 ### 📚 &ensp;Latest Medium Articles
