@@ -4,7 +4,7 @@
 
 #show: body => cv(
   name: "Federico Cristiano Bruzzone",
-  about: [Computer Science Student at Università degli Studi di Milano and Researcher at ADAPT Lab working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
+  about: [Computer Science Student at Università degli Studi di Milano and Researcher at ADAPT Lab #box(image("figs/logo-lab.svg", height: 1em)) working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
   personal_info: (
     birth_place: "Magenta (MI), Italy",
     date_of_birth: [7th of *March 2000*],
@@ -24,7 +24,8 @@
     twitter_name: "@fedebruzzone7"
   ),
   bib : ("publications.bib"),
-  textfill: gradient.linear(..color.map.flare.slice(129,256), relative:"parent"),
+  // textfill: gradient.linear(..color.map.flare.slice(129,256), relative:"parent"),
+  textfill: gradient.linear(..color.map.crest.slice(130,), relative:"parent"),
   linkfill: gradient.linear(..color.map.mako.slice(50, 100), relative:"parent"),
   body,
 )
@@ -96,7 +97,7 @@
 #text(red)[*This paper is work in progress and will be submitted to the journal soon.*] \
 #papers(
   papers: (
-    (label: "TmpBruzzone2024", score: [*Jurnal Ranked Q1 on Scimago* - #link("https://www.scimagojr.com/journalsearch.php?q=19309&tip=sid&clean=0")[scimagojr.com/journal-of-systems-and-software]]),
+    (label: "TmpBruzzone2024", score: [*Journal Ranked Q1 on Scimago* - #link("https://www.scimagojr.com/journalsearch.php?q=19309&tip=sid&clean=0")[scimagojr.com/journal-of-systems-and-software]]),
   )
 )
 

@@ -109,10 +109,10 @@
 
   show "ADAPT Lab": name => box[
     #link("https://di.unimi.it/it/ricerca/risorse-e-luoghi-della-ricerca/laboratori-di-ricerca/adapt-lab")[#name]
-    #box(image(
-      "figs/logo-lab.svg",
-      height: 1em,
-    ))
+    // #box(image(
+    //   "figs/logo-lab.svg",
+    //   height: 1em,
+    // ))
   ]
   show "ALaDDIn Lab": name => box[ #link("https://aladdin.unimi.it/")[#name] ]
   show "LIM Lab": name => box[ #link("https://www.lim.di.unimi.it/")[#name] ]
