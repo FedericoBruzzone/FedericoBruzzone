@@ -40,7 +40,8 @@
   what: "MSc in Computer Science",
   details: (
     [At *Università degli Studi di Milano* defending the thesis:],
-    ["_Toward a Modular Approach for Type Systems and LSP Generation_".],
+    ["_Toward a Modular Approach for Type Systems and LSP Generation_"],
+    [with a final _expected_ grade of *110/110*.],
     [Supervisor: *Walter Cazzola*, Università degli Studi di Milano],
     [Co-supervisor: *Luca Favalli*, Università degli Studi di Milano]
   )
@@ -116,7 +117,7 @@
   when: "2023-2024",
   what: "General Computer Science",
   details: (
-    [I assisted the Professor *Alberto Davide Adolfo Momigliano * in the exams of "General Computer Science" for the Bachelor's Degree in Economics, Università degli Studi di Milano.]
+    [I assisted the Professor *Alberto Davide Adolfo Momigliano * in the exams of "General Computer Science" for the Bachelor's Degree in Communication and Society, Università degli Studi di Milano.]
 
   )
 )
