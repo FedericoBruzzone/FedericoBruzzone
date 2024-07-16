@@ -14,10 +14,10 @@
 </p>
 
 ```ebnf
-Bio   ::= "mediocre" Trait
+Bio   ::= "mediocre" Trait ":D"
 
-Trait ::= "MSc Student in Computer Science @ UNIMI"
-        | "Researcher in Computer Science @ ADAPT Lab"
+Trait ::= "Researcher in Computer Science @ ADAPT Lab"
+        | "Ex MSc Student in Computer Science @ UNIMI"
         | "Sound Engineer, Music Composer and Pianist"
 ```
 
