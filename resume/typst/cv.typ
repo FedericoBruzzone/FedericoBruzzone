@@ -41,7 +41,7 @@
   details: (
     [At *Università degli Studi di Milano* defending the thesis:],
     ["_Toward a Modular Approach for Type Systems and LSP Generation_"],
-    [with a final _expected_ grade of *110/110*.],
+    [with final grade *110/110 cum laude*.],
     [Supervisor: *Walter Cazzola*, Università degli Studi di Milano],
     [Co-supervisor: *Luca Favalli*, Università degli Studi di Milano]
   )
