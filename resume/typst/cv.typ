@@ -36,7 +36,7 @@
 = Education
 == Academic Titles
 #entry(
-  when: "2022-2024 \n (15-18/07/2024)",
+  when: "2022-2024 \n (15/07/2024)",
   what: "MSc in Computer Science",
   details: (
     [At *Università degli Studi di Milano* defending the thesis:],
