@@ -4,7 +4,7 @@
 
 #show: body => cv(
   name: "Federico Cristiano Bruzzone",
-  about: [Computer Science Student at Università degli Studi di Milano and Researcher at ADAPT Lab #box(image("figs/logo-lab.svg", height: 1em)) working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
+  about: [Computer Science and Compilers enthusiast. Researcher at the ADAPT Lab #box(image("figs/logo-lab.svg", height: 1em)) (Università degli Studi di Milano) working on #emph("Modular Approach for Type Systems and LSP Generation"). Also, a Sound Engineer and Music Composer.],
   personal_info: (
     birth_place: "Magenta (MI), Italy",
     date_of_birth: [7th of *March 2000*],
