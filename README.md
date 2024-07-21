@@ -4,14 +4,10 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 
 <h3 align="center">
-    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/cv.pdf">Click here to know more about me</a>
-</h3>
-
-<p align="center">
-    <a href="https://github.com/FedericoBruzzone/FedericoBruzzone/blob/main/cv.pdf">My CV</a>
+    <a href="https://federicobruzzone.github.io/cv.pdf">My CV</a>
     &ensp;|&ensp;
-    <a href="https://federicobruzzone.github.io">My blog</a>
-</p>
+    <a href="https://federicobruzzone.github.io/index.html">My Website</a>
+</h3>
 
 ```ebnf
 Bio   ::= "mediocre" Trait ":D"
