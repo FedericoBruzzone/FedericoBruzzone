@@ -9,6 +9,7 @@
     <a href="https://federicobruzzone.github.io/index.html">My Website</a>
 </h3>
 
+<!--
 ```ebnf
 Bio   ::= "mediocre" Trait ":D"
 
@@ -23,6 +24,7 @@ Trait ::= "Researcher in Computer Science @ ADAPT Lab"
 <a href="https://twitter.com/fedebruzzone7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" width="130" /></a>
 <a href="https://mstdn.social/@federicobruzzone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-ar21.svg" height="70" width="130" /></a>
 <a href="https://medium.com/@federico.bruzzone.i" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" width="130" /></a>
+-->
 
 <!--
 In my personal website you can find my articles, additional information about me, what I like and my passions and many other things.
