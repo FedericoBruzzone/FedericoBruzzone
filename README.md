@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
 
 <h3 align="center">
-    <a href="https://federicobruzzone.github.io/cv.pdf">My CV</a>
-    &ensp;|&ensp;
-    <a href="https://federicobruzzone.github.io/index.html">My Website</a>
+  <a href="https://federicobruzzone.github.io/index.html">My Website</a>
+   &ensp;|&ensp;
+  <a href="https://federicobruzzone.github.io/cv.pdf">My CV</a>
 </h3>
 
 <!--
