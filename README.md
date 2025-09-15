@@ -1,7 +1,7 @@
   <!-- ### Hi there 👋 -->
 <!-- <div id="grad1"></div> -->
 
-<h1 align="center">Hi 👋, I'm Federico Bruzzone</h1>
+<!-- <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1> -->
 
 <h3 align="center">
   <a href="https://federicobruzzone.github.io/index.html">My Website</a>
