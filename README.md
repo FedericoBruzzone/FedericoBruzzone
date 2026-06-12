@@ -3,7 +3,7 @@
 
 <!-- <h1 align="center">Hi Folks 👋, I'm Federico Bruzzone</h1> -->
 
-<h3 style="text-align: center;">
+<h3 align="center">
   Hi Folks 👋, while healthy I prefer reuse, just visit <a href="https://federicobruzzone.github.io/index.html">My Webpage</a>
 </h3>
 
