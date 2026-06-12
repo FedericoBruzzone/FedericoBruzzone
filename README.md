@@ -1,13 +1,16 @@
   <!-- ### Hi there 👋 -->
 <!-- <div id="grad1"></div> -->
 
-<!-- <h1 align="center">Hi 👋, I'm Federico Bruzzone</h1> -->
+<!-- <h1 align="center">Hi Folks 👋, I'm Federico Bruzzone</h1> -->
 
-<h3 align="center">
-  <a href="https://federicobruzzone.github.io/index.html">My Website</a>
-   &ensp;|&ensp;
-  <a href="https://federicobruzzone.github.io/cv.pdf">My CV</a>
+<h3 style="text-align: center;">
+  Hi Folks 👋, while healthy I prefer reuse, just visit <a href="https://federicobruzzone.github.io/index.html">My Webpage</a>
 </h3>
+
+<!--
+&ensp;|&ensp;
+  <a href="https://federicobruzzone.github.io/cv.pdf">My CV</a>
+-->
 
 <!--
 ```ebnf
