@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Hi Folks 👋, I'm Federico Bruzzone</h1> -->
 
 <h3 align="center">
-  Hi Folks 👋, while healthy I prefer reuse, just visit <a href="https://federicobruzzone.github.io/index.html">my webpage</a>
+  Hi folks 👋, while healthy I prefer reuse, just visit my personal <a href="https://federicobruzzone.github.io/index.html">webpage</a>.
 </h3>
 
 <!--
